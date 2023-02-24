@@ -1,0 +1,14 @@
+.bg-purple1{
+    background-color: rgb(86, 23, 134);
+    
+}
+
+.bg-purple2{
+    background-color: rgb(97, 36, 144);
+}
+
+
+body{
+    font-family: normal 900 2rem/1.25 "Galano",sans-serif;
+    background-color: rgb(86, 23, 134);
+}
